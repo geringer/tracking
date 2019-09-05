@@ -1,6 +1,9 @@
 # Optical Flow
 What is optical flow?
 
+
+DISCLAIMER, I do not own any of this code, it is open source code from various repos and recompiled by myself Rajaram Sivaramakrishnan
+
 ### Demo
 #### Draw a box around an object in your webcam and watch as the computer struggles to follow
 
